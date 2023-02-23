@@ -3,7 +3,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=PriyanshuChandel) 
 
-<img align='right' src="https://media.giphy.com/media/8B8ABqJx7nT9MwlCQE/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
 Acquiring knowledge in coding and data science... 
@@ -15,7 +15,7 @@ Acquiring knowledge in coding and data science...
  **Languages**
  
  <img alt="Python" width="30px" src="/img/python.png"/>|<img alt="HTML" width="30px" src="/img/html.png"/>|<img alt="CSS" width="30px" src="/img/css-3.png"/>|<img  alt="JavaScript" width="30px" src="/img/javascript.png"/>
- |--|--|--|
+ |--|--|--|--|
  
  **Frameworks**
  
