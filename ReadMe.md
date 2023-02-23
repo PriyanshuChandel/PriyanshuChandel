@@ -29,7 +29,7 @@ Acquiring knowledge in coding and data science...
  
  **Tools**
  
- <img alt="Git" width="30px" src="/img/git.png"/>|<img alt="VSCode" width="30px" src="/img/vscode.png"/>||<img alt="PyCharm" width="30px" src="/img/pycharm.png"/>|<img alt="Jupyter" width="30px" src="/img/jupyter.png"/>
+ <img alt="Git" width="30px" src="/img/git.png"/>|<img alt="VSCode" width="30px" src="/img/vscode.png"/>|<img alt="PyCharm" width="30px" src="/img/pycharm.png"/>|<img alt="Jupyter" width="30px" src="/img/jupyter.png"/>
  |--|--|--|--|
  
  
