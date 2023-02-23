@@ -1,7 +1,7 @@
 
 <h1>Hi, Priyanshu here.. <a href="https://PriyanshuChandel.github.io" target="_blank">Priyanshu</a> 🤓</h1> 
 
-![](https://visitor-badge.glitch.me/badge?page_id=PriyanshuChandel) 
+![](https://visitor-badge.glitch.me/badge?page_id=PriyanshuChandelw) 
 
 <img align='right' src="https://media.giphy.com/media/kJV3yFjaVYtlP0CMOR/giphy.gif" width="350">
 
