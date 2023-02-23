@@ -20,17 +20,17 @@ Acquiring knowledge in coding and data science...
  **Frameworks**
  
  <img alt="Bootstrap" width="30px" src="/img/bootstrap-logo.png"/>|<img alt="Bulma" width="30px" src="/img/bulma.svg"/>
- |--|
+ |--|--|
  
   **OS**
  
  <img alt="Ubuntu" width="30px" src="/img/ubuntu.png"/>|<img alt="Linux" width="30px" src="/img/linux.png"/>|<img alt="Windows" width="30px" src="/img/windows.png"/>|<img alt="Windows" width="30px" src="/img/centos.png"/>
- |--|--|--|
+ |--|--|--|--|
  
  **Tools**
  
  <img alt="Git" width="30px" src="/img/git.png"/>|<img alt="VSCode" width="30px" src="/img/vscode.png"/>||<img alt="PyCharm" width="30px" src="/img/pycharm.png"/>|<img alt="Jupyter" width="30px" src="/img/jupyter.png"/>
- |--|--|--|
+ |--|--|--|--|
  
  
  **Connect with Me**
