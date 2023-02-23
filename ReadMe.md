@@ -10,7 +10,7 @@ Acquiring knowledge in coding and data science...
 
 ---
 
- ## Know-How <img alt="Know-How" width="40px" src="/img/know-how.png"/>
+ ## Know-How <img alt="Know-How" width="40px" src="/img/main.png"/>
 
  **Languages**
  
