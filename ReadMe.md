@@ -3,7 +3,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=PriyanshuChandel) 
 
-<img align='right' src="https://media.giphy.com/media/kJV3yFjaVYtlP0CMOR/giphy.gif" width="260">
+<img align='right' src="https://media.giphy.com/media/kJV3yFjaVYtlP0CMOR/giphy.gif" width="350">
 
 
 Acquiring knowledge in coding and data science... 
