@@ -1,5 +1,5 @@
 
-<h1>Hi, Priyanshu here.. <a href="https://PriyanshuChandel.github.io" target="_blank">Priyanshu</a> 🤓</h1> 
+<h1>Hi, <a href="https://PriyanshuChandel.github.io" target="_blank">Priyanshu</a> 🤓 here.. </h1> 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=priyanshuchandel) 
 
